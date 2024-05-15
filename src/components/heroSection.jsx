@@ -60,25 +60,25 @@ function HeroSection() {
                                     <a aria-label="add to slack" href="https://www.instagram.com/mnjaay312/" class="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-200 hover:border-red-300 hover:shadow-lg hover:shadow-red-600/20 dark:hover:border-cyan-300/30">
                                         <div class="flex justify-center space-x-4">
                                             <img class="w-6 h-6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="slack logo" loading="lazy" width="128" height="128" />
-                                            <span class="hidden font-medium md:block dark:text-white">Instagram</span>
+                                            <span class="font-medium  dark:text-white">Instagram</span>
                                         </div>
                                     </a>
                                     <a aria-label="add to chat" href="https://www.linkedin.com/in/mouhamed-ndiaye-3bb8a6206/" class="p-4 border border-gray-200 dark:bg-gray-800  dark:border-gray-700 rounded-full duration-300 hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-green-300/30">
                                         <div class="flex justify-center space-x-4">
                                             <img class="w-6 h-6" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="chat logo" loading="lazy" width="128" height="128" />
-                                            <span class="hidden font-medium md:block dark:text-white">Linkedin</span>
+                                            <span class=" font-medium dark:text-white">Linkedin</span>
                                         </div>
                                     </a>
                                     <a aria-label="add to zoom" href="https://twitter.com/M_Njaay" class="p-4 border border-gray-200 dark:bg-gray-800  dark:border-gray-700 rounded-full duration-400 hover:border-black hover:shadow-lg hover:shadow-black-600/20 dark:hover:border-blue-300/30">
                                         <div class="flex justify-center space-x-4">
                                             <img class="w-6 h-6" src="https://img.freepik.com/vecteurs-libre/nouvelle-conception-icone-x-du-logo-twitter-2023_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1715644800&semt=ais_user" alt="chat logo" loading="lazy" width="128" height="128" />
-                                            <span class="hidden font-medium md:block dark:text-white">X</span>
+                                            <span class=" font-medium  dark:text-white">X</span>
                                         </div>
                                     </a>
                                     <a aria-label="add to zoom" href="https://github.com/mnjaay" class="p-4 border border-gray-200 dark:bg-gray-800  dark:border-gray-700 rounded-full duration-500 hover:border-black hover:shadow-lg hover:shadow-black-600/20 dark:hover:border-blue-300/30">
                                         <div class="flex justify-center space-x-4">
                                             <img class="w-6 h-6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="chat logo" loading="lazy" width="128" height="128" />
-                                            <span class="hidden font-medium md:block dark:text-white">GitHub</span>
+                                            <span class=" font-medium  dark:text-white">GitHub</span>
                                         </div>
                                     </a>
 
