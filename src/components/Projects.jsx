@@ -62,7 +62,7 @@ function Projects() {
 
                 {
                     Project.map(project => (
-                        <div class="bg-white sm:w-[200px] shadow-md border lg:w-[400px] border-gray-200 rounded-lg max-w-sm dark:bg-gray-800 dark:border-gray-700 m-3">
+                        <div class=" project bg-white sm:w-[200px] shadow-md border lg:w-[400px] border-gray-200 rounded-lg max-w-sm dark:bg-gray-800 dark:border-gray-700 m-3">
                             <a href="#">
                                 <img class="rounded-t-lg" src={project.image} alt="" />
                             </a>

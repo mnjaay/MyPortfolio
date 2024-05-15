@@ -187,7 +187,7 @@ function Skills() {
                             }
                         </div>
                         <div className="w-[300px] sm:m-5 lg:m-5">
-                            <p className='text-xl text-blue-900'> PROGRAMMING LANGAGE</p>
+                            <p className='text-xl text-blue-900'> PROGRAMMING LANGUAGE</p>
                             {
                                 Langage.map(front => (
 

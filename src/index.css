@@ -15,3 +15,34 @@ body {
 .navbar-active div:first-child div:first-child div:last-child{
     @apply block lg:flex
 }
+
+.project {
+   
+    animation-name: slideUp;
+    animation-duration: 1s; /* Durée de l'animation */
+  }
+  
+  @keyframes slideUp {
+    from { transform: translateY(90vh); } /* Déplacez l'élément vers le bas de la fenêtre */
+    to { transform: translateY(0); } /* Déplacez l'élément vers le haut de la fenêtre */
+  }
+
+
+  .header{
+    animation-name: slideUp;
+    animation-duration: 3s; /* Durée de l'animation */
+  }
+ /* .heroSection{
+    background-image: url('https://img.freepik.com/vecteurs-libre/matrice-science-fiction-numerique-abstraite-comme-arriere-plan_587448-573.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }*/
+
+  .about{
+    animation-name: slideUp;
+    animation-duration: 4s; /* Durée de l'animation */
+  }
+  .texte{
+    animation-name: slideUp;
+    animation-duration: 2s; /* Durée de l'animation */
+  }

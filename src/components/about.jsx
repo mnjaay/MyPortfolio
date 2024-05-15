@@ -4,7 +4,7 @@ import image from '../../src/images/WhatsApp Image 2024-05-13 à 15.13.18_7ddbc9
 function About() {
     return (
         <div className=''>
-            <div class="py-16 bg-white">
+            <div class="py-16 about bg-white">
                 <h1 class="duration-500 m-10 sm:mx-auto sm:w-10/12 md:w-2/3 font-black text-blue-900 text-xl text-center sm:text-5xl md:text-6xl lg:w-auto ">About me</h1>
                 <div class="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
                     <div class="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">

@@ -3,9 +3,9 @@ import React from 'react'
 function Header() {
   return (
     <div>
-        <nav class="flex  justify-center px-5 py-10 items-center bg-white">
-<div className=''>
-<h1 class=" text-xl text-gray-800 font-bold">MNJAAY312</h1>
+        <nav class="flex justify-center px-5 py-10 items-center bg-white">
+<div className='bg-white'>
+<h1 class=" text-xl text-gray-800 font-bold ">MNJAAY312</h1>
 
   </div> 
   {/*<div className='block sm:hidden'>
