@@ -8,7 +8,7 @@ function Header() {
 <h1 class=" text-xl text-gray-800 font-bold">MNJAAY312</h1>
 
   </div> 
-  <div className='block sm:hidden'>
+  {/*<div className='block sm:hidden'>
  <svg width="46" height="46" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
   <path d="M7.5 6.75H21"></path>
   <path d="M7.5 12H21"></path>
@@ -17,7 +17,7 @@ function Header() {
   <path d="M3.75 12.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z"></path>
   <path d="M3.75 18a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z"></path>
 </svg>
- </div>
+ </div>*/}
  {/* <div class="hidden sm:block flex items-center">
    
     <ul class="block flex items-center space-x-6">

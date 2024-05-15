@@ -107,7 +107,7 @@ function Skills() {
                 <div class="py-16 bg-white">
                     <h1 class="duration-500 m-10 sm:mx-auto sm:w-10/12 md:w-2/3 font-black text-blue-900 text-xl text-center sm:text-5xl md:text-6xl lg:w-auto ">My Skills </h1>
                     <div class="sm:grid sm:grid-rows-4 lg:grid lg:grid-rows-2 lg:grid-flow-col lg:gap-2 container lg:flex justify-around  m-auto px-6 text-gray-600 md:px-12 xl:px-6">
-                        <div className="w-[300px] m-5">
+                        <div className="w-[300px] sm:m-5 lg:m-5">
                             <p className='text-xl text-blue-900'> Frontend</p>
                             {
                                 Frontend.map(front => (
@@ -128,7 +128,7 @@ function Skills() {
                         </div>
 
                       
-                        <div className="w-[300px] m-5">
+                        <div className="w-[300px] sm:m-5 lg:m-5">
                             <p className='text-xl text-blue-900'> DATABASE</p>
                             {
                                 Database.map(front => (
@@ -147,7 +147,7 @@ function Skills() {
                                 ))
                             }
                         </div>
-                        <div className="w-[300px] m-5">
+                        <div className="w-[300px] sm:m-5 lg:m-5">
                             <p className='text-xl text-blue-900'> Backend</p>
                             {
                                 Backend.map(front => (
@@ -167,7 +167,7 @@ function Skills() {
                             }
                         </div>
                        
-                        <div className="w-[300px] m-5">
+                        <div className="w-[300px] sm:m-5 lg:m-5">
                             <p className='text-xl text-blue-900'> Mobile</p>
                             {
                                 Mobile.map(front => (
@@ -186,7 +186,7 @@ function Skills() {
                                 ))
                             }
                         </div>
-                        <div className="w-[300px] m-5">
+                        <div className="w-[300px] sm:m-5 lg:m-5">
                             <p className='text-xl text-blue-900'> PROGRAMMING LANGAGE</p>
                             {
                                 Langage.map(front => (
